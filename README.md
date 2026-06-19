@@ -1,3 +1,4 @@
+
 # ⚙️ Generic CRUD API
 
 A robust and scalable **CRUD (Create, Read, Update, Delete) RESTful API** built with **Node.js, Express, and MongoDB**. This project provides a reliable and extensible foundation for building data-driven applications.
